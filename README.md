@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake Hamilton</h1>
-<h3 align="center">A passionate hopefully soon to be Full Stake Dev</h3>
+<h3 align="center">A passionate hopefully soon to be Full Stack Dev</h3>
 
 - 🔭 I’m currently working on **IOTSHOPFinalBuild**
 
