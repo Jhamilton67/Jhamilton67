@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.Net MAUI, JS, FIREBASE, .NET 6 Features**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: LinkedIn Jake Hamilton</h3>
 <p align="left">
 </p>
 
