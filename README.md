@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jake Hamilton</h1>
+<h3 align="centre>I am currently a Junior Software Dev</h3>
 <h3 align="center">A passionate hopefully soon to be Full Stack Dev</h3>
 
-- 🔭 I’m currently working on **IOTSHOPFinalBuild**
+- 🔭 In my spare time i  wor on **IOTSHOPFinalBuild**
 
-- 🌱 I’m currently learning **.Net MAUI, JS, FIREBASE, .NET 6 Features**
+- 🌱 I’m currently learning **.Net MAUI, React, All things Azure(Az 900) JS, SQL, .NET 8 Features and keeping up with tech trends**
 
 <h3 align="left">Connect with me: LinkedIn Jake Hamilton</h3>
 <p align="left">
