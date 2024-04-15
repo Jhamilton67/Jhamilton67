@@ -2,7 +2,7 @@
 <h3 align="centre>I am currently a Junior Software Dev</h3>
 <h3 align="center">A passionate hopefully soon to be Full Stack Dev</h3>
 
-- 🔭 In my spare time i  wor on **IOTSHOPFinalBuild**
+- 🔭 In my spare time i  work on **IOTSHOPFinalBuild**
 
 - 🌱 I’m currently learning **.Net MAUI, React, All things Azure(Az 900) JS, SQL, .NET 8 Features and keeping up with tech trends**
 
