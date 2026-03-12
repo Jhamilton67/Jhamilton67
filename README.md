@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jake Hamilton</h1>
-<h3 align="left"> I am currently a Software Dev @CALA Group</h3>
+<h3 align="left"> I am currently a Software Dev @Hamilton Tech Consulting</h3>
 <h3 align="left"> A passionate hopefully soon to be Full Stack Dev</h3>
 
 - 🔭 In my spare time just now i am looking into AI Automation, to help with integrations, workflows and process improvements
